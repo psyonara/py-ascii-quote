@@ -11,6 +11,7 @@ The script asks you for the quote and the author.
 
 ### Example output
 
+```
  _________________________________
  /  \                             \.
  |   | Whoa, lady, I only speak   |.
@@ -20,3 +21,4 @@ The script asks you for the quote and the author.
      |   _________________________|___
      |  /                            /.
      \_/____________________________/.
+```
